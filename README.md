@@ -10,11 +10,11 @@ Using npm:
 
 # Example
 
-`import fetchAPIData from "fetchApiData"`
+`import fetchAPIData from "fetch-api-data"`
 
 or
 
-`const fetchAPIData = require('fetchAPIData')`
+`const fetchAPIData = require('fetch-api-data')`
 
 # For GET Request
 
