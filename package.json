@@ -1,6 +1,6 @@
 {
   "name": "fetch-api-data",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "🚀 Promise based function for calling API easily in Node Js or any Javascript framework!",
   "main": "fetchApiData.js",
   "scripts": {

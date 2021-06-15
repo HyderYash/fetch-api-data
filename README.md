@@ -1,5 +1,9 @@
 # fetch-api-data
 
+![npm bundle size](https://img.shields.io/bundlephobia/min/fetch-api-data)
+![NPM](https://img.shields.io/npm/l/fetch-api-data)
+![npm](https://img.shields.io/npm/v/fetch-api-data)
+
 🚀 Promise based function for calling API easily in Node Js or any Javascript framework!
 
 # Installing
